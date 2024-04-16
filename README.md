@@ -1,0 +1,1 @@
+Como tive que refazer a recuperação da SA03 e investi todo tempo livre revendo aulas e fazendo a SA03 e SA05 ao mesmo tempo, entrego uma parte. Como sei que vou ter que refazer, tenho um tempo pro codigo funcionar bonito. 
